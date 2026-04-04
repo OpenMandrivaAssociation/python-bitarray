@@ -1,7 +1,7 @@
 %define module bitarray
 
 Name:		python-bitarray
-Version:	3.8.0
+Version:	3.8.1
 Release:	1
 Summary:	efficient arrays of booleans -- C extension
 License:	PSF-2.0

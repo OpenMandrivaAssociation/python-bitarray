@@ -2,7 +2,7 @@
 
 Name:		python-bitarray
 Version:	3.10.0
-Release:	1
+Release:	2
 Summary:	efficient arrays of booleans -- C extension
 License:	PSF-2.0
 Group:		Development/Python
